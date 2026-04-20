@@ -38,3 +38,4 @@ class AkunBank:
     for r in self.riwayat:
       print(r)
   
+  #
